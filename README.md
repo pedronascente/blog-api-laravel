@@ -141,9 +141,13 @@ curl -X POST http://127.0.0.1:8000/api/v1/login \
 
 ```
 app/
+  Docs/Swager/
+    Auth/
+    User/     
   Http/
     Controllers/
     Requests/
+    Resources/
   Models/
 routes/
   api.php
